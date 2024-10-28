@@ -1,0 +1,63 @@
+.header{
+    border: 2px solid black;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: lightsalmon;
+   
+
+}
+
+h3{
+    text-decoration: underline;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+    font-size: large;
+}
+
+.rightdiv{
+    display: flex;
+    gap: 80px;
+  
+}
+
+
+.leftdiv{
+    color: white;
+    font-size: larger;
+}
+
+.footer{
+    border: 2px solid black;
+    /* margin-top: 250px; */
+    text-align: center;
+    background-color: lightsalmon;
+    color: white;
+    font-size: large;
+
+    
+}
+
+
+.p{
+    border: 2px solid;
+    /* margin-top: 20px; */
+    
+}
+
+.content{
+    display: flex;
+    gap:10px;
+    text-align:center;
+    flex-wrap: wrap;
+    padding: 20px;
+    justify-content: center;
+    
+   
+    
+}
+
+
